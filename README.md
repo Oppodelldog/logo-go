@@ -28,28 +28,28 @@ The process of creating these artworks was quite random - I did not use mathemat
 
 ### Diesel Malone
 ![DieselMalone](./out/DieselMalone.jpg)
-* [Diesel Malone - small](./out/DieselMalone.small.mp4)
-* [Diesel Malone - large](./out/DieselMalone.mp4)
+* [Diesel Malone - small (1MB, MP4)](./out/DieselMalone.small.mp4)
+* [Diesel Malone - large (44MB, MP4)](./out/DieselMalone.mp4)
 
 ### Malaika Kelly
 ![MalaikaKelly](./out/MalaikaKelly.jpg)
-* [Malaika Kelly - small](./out/MalaikaKelly.small.mp4)
-* [Malaika Kelly - large](./out/MalaikaKelly.mp4)
+* [Malaika Kelly - small (1MB, MP4)](./out/MalaikaKelly.small.mp4)
+* [Malaika Kelly - large (24MB, MP4)](./out/MalaikaKelly.mp4)
 
 ### Danica Velez
 ![DanicaVelez](./out/DanicaVelez.jpg)
-* [Danica Velez - small](./out/DanicaVelez.small.mp4)
-* [Danica Velez - large](./out/DanicaVelez.mp4)
+* [Danica Velez - small (2MB, MP4)](./out/DanicaVelez.small.mp4)
+* [Danica Velez - large (43MB, MP4)](./out/DanicaVelez.mp4)
 
 ### Chelsy Wagner
 ![ChelsyWagner](./out/ChelsyWagner.jpg)      
-* [Chelsy Wagner - small](./out/ChelsyWagner.small.mp4)
-* [Chelsy Wagner - large](./out/ChelsyWagner.mp4)
+* [Chelsy Wagner - small (500KB, MP4)](./out/ChelsyWagner.small.mp4)
+* [Chelsy Wagner - large (5MB, MP4)](./out/ChelsyWagner.mp4)
 
 
 ### Running the code
 So if you like to run the code you should be an experienced software developer.  
-If you are not and you still want to try it, I give some hints:
+If you are not, and you still want to try it, I give some hints:
 
 * [install go](https://golang.org/doc/install)
 * [install ffmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
